@@ -1,5 +1,3 @@
-[2:29 PM] Pusana Kusontummarat (TDEM)
-    
 pipeline {​​​​​​​
     
     agent {​​​​​​​label 'White-PC'}​​​​​​​
